@@ -1,0 +1,1248 @@
+[
+    {
+        "name":  "Claw",
+        "rarity":  "Free",
+        "class":  "druid",
+        "cost":  "1",
+        "text":  "Give your hero +2 Attack this turn and 2 Armor."
+    },
+    {
+        "name":  "Healing Touch",
+        "rarity":  "Free",
+        "class":  "druid",
+        "cost":  "3",
+        "text":  "Restore #8 Health."
+    },
+    {
+        "name":  "Innervate",
+        "rarity":  "Free",
+        "class":  "druid",
+        "cost":  "0",
+        "text":  "Gain 2 Mana Crystals this turn only."
+    },
+    {
+        "name":  "Mark of the Wild",
+        "rarity":  "Free",
+        "class":  "druid",
+        "cost":  "2",
+        "text":  "Give a minion \u003cb\u003eTaunt\u003c/b\u003e and +2/+2."
+    },
+    {
+        "name":  "Wild Growth",
+        "rarity":  "Free",
+        "class":  "druid",
+        "cost":  "2",
+        "text":  "Gain an empty Mana Crystal."
+    },
+    {
+        "name":  "Mark of Nature",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "3",
+        "text":  "\u003cb\u003eChoose One\u003c/b\u003e - Give a minion +4 Attack; or +4 Health and \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Moonfire",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "0",
+        "text":  "Deal 1 damage."
+    },
+    {
+        "name":  "Naturalize",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "1",
+        "text":  "Destroy a minion. Your opponent draws 2 cards."
+    },
+    {
+        "name":  "Poison Seeds",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "4",
+        "text":  "Destroy all minions and summon 2/2 Treants to replace them."
+    },
+    {
+        "name":  "Power of the Wild",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "2",
+        "text":  "\u003cb\u003eChoose One\u003c/b\u003e - Give your minions +1/+1; or Summon a 3/2 Panther."
+    },
+    {
+        "name":  "Savage Roar",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "3",
+        "text":  "Give your characters +2 Attack this turn."
+    },
+    {
+        "name":  "Soul of the Forest",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "4",
+        "text":  "Give your minions \"\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a 2/2 Treant.\""
+    },
+    {
+        "name":  "Starfire",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "6",
+        "text":  "Deal 5 damage.  Draw a card."
+    },
+    {
+        "name":  "Swipe",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "4",
+        "text":  "Deal 4 damage to an enemy and 1 damage to all other enemies."
+    },
+    {
+        "name":  "Wrath",
+        "rarity":  "Common",
+        "class":  "druid",
+        "cost":  "2",
+        "text":  "\u003cb\u003eChoose One\u003c/b\u003e - Deal 3 damage to a minion; or 1 damage and draw a card."
+    },
+    {
+        "name":  "Bite",
+        "rarity":  "Rare",
+        "class":  "druid",
+        "cost":  "4",
+        "text":  "Give your hero +4 Attack this turn and 4 Armor."
+    },
+    {
+        "name":  "Nourish",
+        "rarity":  "Rare",
+        "class":  "druid",
+        "cost":  "5",
+        "text":  "\u003cb\u003eChoose One\u003c/b\u003e - Gain 2 Mana Crystals; or Draw 3 cards."
+    },
+    {
+        "name":  "Recycle",
+        "rarity":  "Rare",
+        "class":  "druid",
+        "cost":  "6",
+        "text":  "Shuffle an enemy minion into your opponent\u0027s deck."
+    },
+    {
+        "name":  "Savagery",
+        "rarity":  "Rare",
+        "class":  "druid",
+        "cost":  "1",
+        "text":  "Deal damage equal to your hero\u0027s Attack to a minion."
+    },
+    {
+        "name":  "Starfall",
+        "rarity":  "Rare",
+        "class":  "druid",
+        "cost":  "5",
+        "text":  "\u003cb\u003eChoose One -\u003c/b\u003e Deal 5 damage to a minion; or 2 damage to all enemy minions."
+    },
+    {
+        "name":  "Dark Wispers",
+        "rarity":  "Epic",
+        "class":  "druid",
+        "cost":  "6",
+        "text":  "Choose One - Summon 5 Wisps; or Give a minion +5/+5 and Taunt."
+    },
+    {
+        "name":  "Force of Nature",
+        "rarity":  "Epic",
+        "class":  "druid",
+        "cost":  "6",
+        "text":  "Summon three 2/2 Treants with \u003cb\u003eCharge\u003c/b\u003e that die at the end of the turn."
+    },
+    {
+        "name":  "Tree of Life",
+        "rarity":  "Epic",
+        "class":  "druid",
+        "cost":  "9",
+        "text":  "Restore all characters to full Health."
+    },
+    {
+        "name":  "Arcane Shot",
+        "rarity":  "Free",
+        "class":  "hunter",
+        "cost":  "1",
+        "text":  "Deal 2 damage."
+    },
+    {
+        "name":  "Multi-Shot",
+        "rarity":  "Free",
+        "class":  "hunter",
+        "cost":  "4",
+        "text":  "Deal 3 damage to two random enemy minions."
+    },
+    {
+        "name":  "Tracking",
+        "rarity":  "Free",
+        "class":  "hunter",
+        "cost":  "1",
+        "text":  "Look at the top three cards of your deck. Draw one and discard the others."
+    },
+    {
+        "name":  "Animal Companion",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "3",
+        "text":  "Summon a random Beast Companion."
+    },
+    {
+        "name":  "Cobra Shot",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "5",
+        "text":  "Deal 3 damage to a minion and the enemy hero."
+    },
+    {
+        "name":  "Deadly Shot",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "3",
+        "text":  "Destroy a random enemy minion."
+    },
+    {
+        "name":  "Explosive Trap",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "2",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When your hero is attacked, deal 2 damage to all enemies."
+    },
+    {
+        "name":  "Freezing Trap",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "2",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When an enemy minion attacks, return it to its owner\u0027s hand and it costs (2) more."
+    },
+    {
+        "name":  "Hunter\u0027s Mark",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "0",
+        "text":  "Change a minion\u0027s Health to 1."
+    },
+    {
+        "name":  "Kill Command",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "3",
+        "text":  "Deal 3 damage.  If you have a Beast, deal 5 damage instead."
+    },
+    {
+        "name":  "Snipe",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "2",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When your opponent plays a minion, deal 4 damage to it."
+    },
+    {
+        "name":  "Unleash the Hounds",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "3",
+        "text":  "For each enemy minion, summon a 1/1 Hound with \u003cb\u003eCharge\u003c/b\u003e."
+    },
+    {
+        "name":  "Call Pet",
+        "rarity":  "Rare",
+        "class":  "hunter",
+        "cost":  "2",
+        "text":  "Draw a card.\n\u003cp\u003eIf it\u0027s a Beast, it costs (4) less. \u003c/p\u003e"
+    },
+    {
+        "name":  "Explosive Shot",
+        "rarity":  "Rare",
+        "class":  "hunter",
+        "cost":  "5",
+        "text":  "Deal 5 damage to a minion and 2 damage to adjacent ones."
+    },
+    {
+        "name":  "Flare",
+        "rarity":  "Rare",
+        "class":  "hunter",
+        "cost":  "2",
+        "text":  "All minions lose \u003cb\u003eStealth\u003c/b\u003e. Destroy all enemy \u003cb\u003eSecrets\u003c/b\u003e. Draw a card."
+    },
+    {
+        "name":  "Misdirection",
+        "rarity":  "Rare",
+        "class":  "hunter",
+        "cost":  "2",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When a character attacks your hero, instead he attacks another random character."
+    },
+    {
+        "name":  "Bestial Wrath",
+        "rarity":  "Epic",
+        "class":  "hunter",
+        "cost":  "1",
+        "text":  "Give a friendly Beast +2 Attack and \u003cb\u003eImmune\u003c/b\u003e this turn."
+    },
+    {
+        "name":  "Feign Death",
+        "rarity":  "Epic",
+        "class":  "hunter",
+        "cost":  "2",
+        "text":  "Trigger all \u003cb\u003eDeathrattles\u003c/b\u003e on your minions."
+    },
+    {
+        "name":  "Snake Trap",
+        "rarity":  "Epic",
+        "class":  "hunter",
+        "cost":  "2",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When one of your minions is attacked, summon three 1/1 Snakes."
+    },
+    {
+        "name":  "Arcane Explosion",
+        "rarity":  "Free",
+        "class":  "mage",
+        "cost":  "2",
+        "text":  "Deal 1 damage to all enemy minions."
+    },
+    {
+        "name":  "Arcane Intellect",
+        "rarity":  "Free",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "Draw 2 cards."
+    },
+    {
+        "name":  "Arcane Missiles",
+        "rarity":  "Free",
+        "class":  "mage",
+        "cost":  "1",
+        "text":  "Deal 3 damage randomly split among enemy characters."
+    },
+    {
+        "name":  "Fireball",
+        "rarity":  "Free",
+        "class":  "mage",
+        "cost":  "4",
+        "text":  "Deal 6 damage."
+    },
+    {
+        "name":  "Polymorph",
+        "rarity":  "Free",
+        "class":  "mage",
+        "cost":  "4",
+        "text":  "Transform a minion into a 1/1 Sheep."
+    },
+    {
+        "name":  "Cone of Cold",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "4",
+        "text":  "\u003cb\u003eFreeze\u003c/b\u003e a minion and the minions next to it, and deal 1 damage to them."
+    },
+    {
+        "name":  "Duplicate",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When a friendly minion dies, put 2 copies of it into your hand."
+    },
+    {
+        "name":  "Flamecannon",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "2",
+        "text":  "Deal 4 damage to a random enemy minion."
+    },
+    {
+        "name":  "Flamestrike",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "7",
+        "text":  "Deal 4 damage to all enemy minions."
+    },
+    {
+        "name":  "Frost Nova",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "\u003cb\u003eFreeze\u003c/b\u003e all enemy minions."
+    },
+    {
+        "name":  "Frostbolt",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "2",
+        "text":  "Deal 3 damage to a character and \u003cb\u003eFreeze\u003c/b\u003e it."
+    },
+    {
+        "name":  "Ice Barrier",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When your hero is attacked, gain 8 Armor."
+    },
+    {
+        "name":  "Ice Lance",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "1",
+        "text":  "\u003cb\u003eFreeze\u003c/b\u003e a character. If it was already \u003cb\u003eFrozen\u003c/b\u003e, deal 4 damage instead."
+    },
+    {
+        "name":  "Mirror Entity",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When your opponent plays a minion, summon a copy of it."
+    },
+    {
+        "name":  "Mirror Image",
+        "rarity":  "Common",
+        "class":  "mage",
+        "cost":  "1",
+        "text":  "Summon two 0/2 minions with \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Blizzard",
+        "rarity":  "Rare",
+        "class":  "mage",
+        "cost":  "6",
+        "text":  "Deal 2 damage to all enemy minions and \u003cb\u003eFreeze\u003c/b\u003e them."
+    },
+    {
+        "name":  "Counterspell",
+        "rarity":  "Rare",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When your opponent casts a spell, \u003cb\u003eCounter\u003c/b\u003e it."
+    },
+    {
+        "name":  "Unstable Portal",
+        "rarity":  "Rare",
+        "class":  "mage",
+        "cost":  "2",
+        "text":  "Add a random minion to your hand. It costs (3) less."
+    },
+    {
+        "name":  "Vaporize",
+        "rarity":  "Rare",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When a minion attacks your hero, destroy it."
+    },
+    {
+        "name":  "Echo of Medivh",
+        "rarity":  "Epic",
+        "class":  "mage",
+        "cost":  "4",
+        "text":  "Put a copy of each friendly minion into your hand."
+    },
+    {
+        "name":  "Ice Block",
+        "rarity":  "Epic",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When your hero takes fatal damage, prevent it and become \u003cb\u003eImmune\u003c/b\u003e this turn."
+    },
+    {
+        "name":  "Pyroblast",
+        "rarity":  "Epic",
+        "class":  "mage",
+        "cost":  "10",
+        "text":  "Deal 10 damage."
+    },
+    {
+        "name":  "Spellbender",
+        "rarity":  "Epic",
+        "class":  "mage",
+        "cost":  "3",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When an enemy casts a spell on a minion, summon a 1/3 as the new target."
+    },
+    {
+        "name":  "Blessing of Might",
+        "rarity":  "Free",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "Give a minion +3 Attack."
+    },
+    {
+        "name":  "Hammer of Wrath",
+        "rarity":  "Free",
+        "class":  "paladin",
+        "cost":  "4",
+        "text":  "Deal 3 damage.  Draw a card."
+    },
+    {
+        "name":  "Hand of Protection",
+        "rarity":  "Free",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "Give a minion \u003cb\u003eDivine Shield\u003c/b\u003e."
+    },
+    {
+        "name":  "Holy Light",
+        "rarity":  "Free",
+        "class":  "paladin",
+        "cost":  "2",
+        "text":  "Restore #6 Health."
+    },
+    {
+        "name":  "Avenge",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When one of your minions dies, give a random friendly minion +3/+2."
+    },
+    {
+        "name":  "Blessing of Kings",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "4",
+        "text":  "Give a minion +4/+4."
+    },
+    {
+        "name":  "Blessing of Wisdom",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "Choose a minion.  Whenever it attacks, draw a card."
+    },
+    {
+        "name":  "Consecration",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "4",
+        "text":  "Deal 2 damage to all enemies."
+    },
+    {
+        "name":  "Eye for an Eye",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When your hero takes damage, deal that much damage to the enemy hero."
+    },
+    {
+        "name":  "Humility",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "Change a minion\u0027s Attack to 1."
+    },
+    {
+        "name":  "Noble Sacrifice",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When an enemy attacks, summon a 2/1 Defender as the new target."
+    },
+    {
+        "name":  "Redemption",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When one of your minions dies, return it to life with 1 Health."
+    },
+    {
+        "name":  "Repentance",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "1",
+        "text":  "\u003cb\u003eSecret:\u003c/b\u003e When your opponent plays a minion, reduce its Health to 1."
+    },
+    {
+        "name":  "Seal of Light",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "2",
+        "text":  "Restore #4 Health to your hero and gain +2 Attack this turn."
+    },
+    {
+        "name":  "Blessed Champion",
+        "rarity":  "Rare",
+        "class":  "paladin",
+        "cost":  "5",
+        "text":  "Double a minion\u0027s Attack."
+    },
+    {
+        "name":  "Divine Favor",
+        "rarity":  "Rare",
+        "class":  "paladin",
+        "cost":  "3",
+        "text":  "Draw cards until you have as many in hand as your opponent."
+    },
+    {
+        "name":  "Equality",
+        "rarity":  "Rare",
+        "class":  "paladin",
+        "cost":  "2",
+        "text":  "Change the Health of ALL minions to 1."
+    },
+    {
+        "name":  "Holy Wrath",
+        "rarity":  "Rare",
+        "class":  "paladin",
+        "cost":  "5",
+        "text":  "Draw a card and deal damage equal to its cost."
+    },
+    {
+        "name":  "Muster for Battle",
+        "rarity":  "Rare",
+        "class":  "paladin",
+        "cost":  "3",
+        "text":  "Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon."
+    },
+    {
+        "name":  "Avenging Wrath",
+        "rarity":  "Epic",
+        "class":  "paladin",
+        "cost":  "6",
+        "text":  "Deal 8 damage randomly split among enemy characters."
+    },
+    {
+        "name":  "Lay on Hands",
+        "rarity":  "Epic",
+        "class":  "paladin",
+        "cost":  "8",
+        "text":  "Restore 8 Health. Draw 3 cards."
+    },
+    {
+        "name":  "Holy Smite",
+        "rarity":  "Free",
+        "class":  "priest",
+        "cost":  "1",
+        "text":  "Deal 2 damage."
+    },
+    {
+        "name":  "Mind Blast",
+        "rarity":  "Free",
+        "class":  "priest",
+        "cost":  "2",
+        "text":  "Deal 5 damage to the enemy hero."
+    },
+    {
+        "name":  "Power Word: Shield",
+        "rarity":  "Free",
+        "class":  "priest",
+        "cost":  "1",
+        "text":  "Give a minion +2 Health.\u003cbr /\u003eDraw a card."
+    },
+    {
+        "name":  "Shadow Word: Pain",
+        "rarity":  "Free",
+        "class":  "priest",
+        "cost":  "2",
+        "text":  "Destroy a minion with 3 or less Attack."
+    },
+    {
+        "name":  "Circle of Healing",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "0",
+        "text":  "Restore #4 Health to ALL minions."
+    },
+    {
+        "name":  "Divine Spirit",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "2",
+        "text":  "Double a minion\u0027s Health."
+    },
+    {
+        "name":  "Holy Nova",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "5",
+        "text":  "Deal 2 damage to all enemies.  Restore #2 Health to all  friendly characters."
+    },
+    {
+        "name":  "Inner Fire",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "1",
+        "text":  "Change a minion\u0027s Attack to be equal to its Health."
+    },
+    {
+        "name":  "Mind Control",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "10",
+        "text":  "Take control of an enemy minion."
+    },
+    {
+        "name":  "Mind Vision",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "1",
+        "text":  "Put a copy of a random card in your opponent\u0027s hand into your hand."
+    },
+    {
+        "name":  "Shadow Word: Death",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "3",
+        "text":  "Destroy a minion with an Attack of 5 or more."
+    },
+    {
+        "name":  "Silence (card)",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "0",
+        "text":  "\u003cb\u003eSilence\u003c/b\u003e a minion."
+    },
+    {
+        "name":  "Thoughtsteal",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "3",
+        "text":  "Copy 2 cards from your opponent\u0027s deck and put them into your hand."
+    },
+    {
+        "name":  "Velen\u0027s Chosen",
+        "rarity":  "Common",
+        "class":  "priest",
+        "cost":  "3",
+        "text":  "Give a minion +2/+4 and \u003cb\u003eSpell Damage +1\u003c/b\u003e."
+    },
+    {
+        "name":  "Holy Fire",
+        "rarity":  "Rare",
+        "class":  "priest",
+        "cost":  "6",
+        "text":  "Deal 5 damage.  Restore 5 Health to your hero."
+    },
+    {
+        "name":  "Light of the Naaru",
+        "rarity":  "Rare",
+        "class":  "priest",
+        "cost":  "1",
+        "text":  "Restore #3 Health. If the target is still damaged, summon a Lightwarden."
+    },
+    {
+        "name":  "Mass Dispel",
+        "rarity":  "Rare",
+        "class":  "priest",
+        "cost":  "4",
+        "text":  "\u003cb\u003eSilence\u003c/b\u003e all enemy minions. Draw a card."
+    },
+    {
+        "name":  "Shadow Madness",
+        "rarity":  "Rare",
+        "class":  "priest",
+        "cost":  "4",
+        "text":  "Gain control of an enemy minion with 3 or less Attack until end of turn."
+    },
+    {
+        "name":  "Lightbomb",
+        "rarity":  "Epic",
+        "class":  "priest",
+        "cost":  "6",
+        "text":  "Deal damage to each minion equal to its Attack."
+    },
+    {
+        "name":  "Mindgames",
+        "rarity":  "Epic",
+        "class":  "priest",
+        "cost":  "4",
+        "text":  "Put a copy of a random minion from your opponent\u0027s deck into the battlefield."
+    },
+    {
+        "name":  "Shadowform",
+        "rarity":  "Epic",
+        "class":  "priest",
+        "cost":  "3",
+        "text":  "Your Hero Power becomes \u0027Deal 2 damage\u0027. If already in Shadowform: 3 damage."
+    },
+    {
+        "name":  "Assassinate",
+        "rarity":  "Free",
+        "class":  "rogue",
+        "cost":  "5",
+        "text":  "Destroy an enemy minion."
+    },
+    {
+        "name":  "Backstab",
+        "rarity":  "Free",
+        "class":  "rogue",
+        "cost":  "0",
+        "text":  "Deal 2 damage to an undamaged minion."
+    },
+    {
+        "name":  "Deadly Poison",
+        "rarity":  "Free",
+        "class":  "rogue",
+        "cost":  "1",
+        "text":  "Give your weapon +2 Attack."
+    },
+    {
+        "name":  "Sap",
+        "rarity":  "Free",
+        "class":  "rogue",
+        "cost":  "2",
+        "text":  "Return an enemy minion to your opponent\u0027s hand."
+    },
+    {
+        "name":  "Sinister Strike",
+        "rarity":  "Free",
+        "class":  "rogue",
+        "cost":  "1",
+        "text":  "Deal 3 damage to the enemy hero."
+    },
+    {
+        "name":  "Betrayal",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "2",
+        "text":  "Force an enemy minion to deal its damage to the minions next to it."
+    },
+    {
+        "name":  "Cold Blood",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "1",
+        "text":  "Give a minion +2 Attack. \u003cb\u003eCombo:\u003c/b\u003e +4 Attack instead."
+    },
+    {
+        "name":  "Conceal",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "1",
+        "text":  "Give your minions \u003cb\u003eStealth\u003c/b\u003e until your next turn."
+    },
+    {
+        "name":  "Eviscerate",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "2",
+        "text":  "Deal 2 damage. \u003cb\u003eCombo:\u003c/b\u003e Deal 4 damage instead."
+    },
+    {
+        "name":  "Fan of Knives",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "3",
+        "text":  "Deal 1 damage to all enemy minions. Draw a card."
+    },
+    {
+        "name":  "Shadowstep",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "0",
+        "text":  "Return a friendly minion to your hand. It costs (2) less."
+    },
+    {
+        "name":  "Shiv",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "2",
+        "text":  "Deal 1 damage. Draw a card."
+    },
+    {
+        "name":  "Sprint",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "7",
+        "text":  "Draw 4 cards."
+    },
+    {
+        "name":  "Tinker\u0027s Sharpsword Oil",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "4",
+        "text":  "Give your weapon +3 Attack. \u003cb\u003eCombo:\u003c/b\u003e Give a random friendly minion +3 Attack."
+    },
+    {
+        "name":  "Vanish",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "6",
+        "text":  ""
+    },
+    {
+        "name":  "Blade Flurry",
+        "rarity":  "Rare",
+        "class":  "rogue",
+        "cost":  "2",
+        "text":  "Destroy your weapon and deal its damage to all enemies."
+    },
+    {
+        "name":  "Headcrack",
+        "rarity":  "Rare",
+        "class":  "rogue",
+        "cost":  "3",
+        "text":  "Deal 2 damage to the enemy hero. \u003cb\u003eCombo:\u003c/b\u003e Return this to your hand next turn."
+    },
+    {
+        "name":  "Preparation",
+        "rarity":  "Epic",
+        "class":  "rogue",
+        "cost":  "0",
+        "text":  "The next spell you cast this turn costs (3) less."
+    },
+    {
+        "name":  "Sabotage",
+        "rarity":  "Epic",
+        "class":  "rogue",
+        "cost":  "4",
+        "text":  "Destroy a random enemy minion. \u003cb\u003eCombo\u003c/b\u003e: And your opponent\u0027s weapon."
+    },
+    {
+        "name":  "Ancestral Healing",
+        "rarity":  "Free",
+        "class":  "shaman",
+        "cost":  "0",
+        "text":  "Restore a minion to full Health and give it \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Frost Shock",
+        "rarity":  "Free",
+        "class":  "shaman",
+        "cost":  "1",
+        "text":  "Deal 1 damage to an enemy character and \u003cb\u003eFreeze\u003c/b\u003e it."
+    },
+    {
+        "name":  "Hex",
+        "rarity":  "Free",
+        "class":  "shaman",
+        "cost":  "3",
+        "text":  "Transform a minion into a 0/1 Frog with \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Rockbiter Weapon",
+        "rarity":  "Free",
+        "class":  "shaman",
+        "cost":  "1",
+        "text":  "Give a friendly character +3 Attack this turn."
+    },
+    {
+        "name":  "Windfury (card)",
+        "rarity":  "Free",
+        "class":  "shaman",
+        "cost":  "2",
+        "text":  "Give a minion \u003cb\u003eWindfury\u003c/b\u003e."
+    },
+    {
+        "name":  "Bloodlust",
+        "rarity":  "Common",
+        "class":  "shaman",
+        "cost":  "5",
+        "text":  "Give your minions +3 Attack this turn."
+    },
+    {
+        "name":  "Crackle",
+        "rarity":  "Common",
+        "class":  "shaman",
+        "cost":  "2",
+        "text":  "Deal 3-6 damage. \u003cb\u003eOverload: (1)\u003c/b\u003e"
+    },
+    {
+        "name":  "Earth Shock",
+        "rarity":  "Common",
+        "class":  "shaman",
+        "cost":  "1",
+        "text":  "\u003cb\u003eSilence\u003c/b\u003e a minion, then deal 1 damage to it."
+    },
+    {
+        "name":  "Forked Lightning",
+        "rarity":  "Common",
+        "class":  "shaman",
+        "cost":  "1",
+        "text":  "Deal 2 damage to 2 random enemy minions. \u003cb\u003eOverload:\u003c/b\u003e (2)"
+    },
+    {
+        "name":  "Lightning Bolt",
+        "rarity":  "Common",
+        "class":  "shaman",
+        "cost":  "1",
+        "text":  "Deal 3 damage. \u003cb\u003eOverload:\u003c/b\u003e (1)"
+    },
+    {
+        "name":  "Reincarnate",
+        "rarity":  "Common",
+        "class":  "shaman",
+        "cost":  "2",
+        "text":  "Destroy a minion, then return it to life with full Health."
+    },
+    {
+        "name":  "Totemic Might",
+        "rarity":  "Common",
+        "class":  "shaman",
+        "cost":  "0",
+        "text":  "Give your Totems +2 Health."
+    },
+    {
+        "name":  "Ancestral Spirit",
+        "rarity":  "Rare",
+        "class":  "shaman",
+        "cost":  "2",
+        "text":  "Give a minion \"\u003cb\u003eDeathrattle:\u003c/b\u003e Resummon this minion.\""
+    },
+    {
+        "name":  "Feral Spirit",
+        "rarity":  "Rare",
+        "class":  "shaman",
+        "cost":  "3",
+        "text":  "Summon two 2/3 Spirit Wolves with \u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eOverload:\u003c/b\u003e (2)"
+    },
+    {
+        "name":  "Lava Burst",
+        "rarity":  "Rare",
+        "class":  "shaman",
+        "cost":  "3",
+        "text":  "Deal 5 damage. \u003cb\u003eOverload:\u003c/b\u003e (2)"
+    },
+    {
+        "name":  "Lightning Storm",
+        "rarity":  "Rare",
+        "class":  "shaman",
+        "cost":  "3",
+        "text":  "Deal 2-3 damage to all enemy minions. \u003cb\u003eOverload:\u003c/b\u003e (2)"
+    },
+    {
+        "name":  "Ancestor\u0027s Call",
+        "rarity":  "Epic",
+        "class":  "shaman",
+        "cost":  "4",
+        "text":  "Put a random minion from each player\u0027s hand into the battlefield."
+    },
+    {
+        "name":  "Far Sight",
+        "rarity":  "Epic",
+        "class":  "shaman",
+        "cost":  "3",
+        "text":  "Draw a card. That card costs (3) less."
+    },
+    {
+        "name":  "Drain Life",
+        "rarity":  "Free",
+        "class":  "warlock",
+        "cost":  "3",
+        "text":  "Deal 2 damage. Restore #2 Health to your hero."
+    },
+    {
+        "name":  "Hellfire",
+        "rarity":  "Free",
+        "class":  "warlock",
+        "cost":  "4",
+        "text":  "Deal 3 damage to ALL characters."
+    },
+    {
+        "name":  "Shadow Bolt",
+        "rarity":  "Free",
+        "class":  "warlock",
+        "cost":  "3",
+        "text":  "Deal 4 damage to a minion."
+    },
+    {
+        "name":  "Corruption",
+        "rarity":  "Common",
+        "class":  "warlock",
+        "cost":  "1",
+        "text":  "Choose an enemy minion.   At the start of your turn, destroy it."
+    },
+    {
+        "name":  "Darkbomb",
+        "rarity":  "Common",
+        "class":  "warlock",
+        "cost":  "2",
+        "text":  "Deal 3 damage."
+    },
+    {
+        "name":  "Demonfire",
+        "rarity":  "Common",
+        "class":  "warlock",
+        "cost":  "2",
+        "text":  "Deal 2 damage to a minion.   If it?s a friendly Demon, give it +2/+2 instead."
+    },
+    {
+        "name":  "Mortal Coil",
+        "rarity":  "Common",
+        "class":  "warlock",
+        "cost":  "1",
+        "text":  "Deal 1 damage to a minion. If that kills it, draw a card."
+    },
+    {
+        "name":  "Power Overwhelming",
+        "rarity":  "Common",
+        "class":  "warlock",
+        "cost":  "1",
+        "text":  "Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly."
+    },
+    {
+        "name":  "Sacrificial Pact",
+        "rarity":  "Common",
+        "class":  "warlock",
+        "cost":  "0",
+        "text":  "Destroy a Demon. Restore #5 Health to your hero."
+    },
+    {
+        "name":  "Sense Demons",
+        "rarity":  "Common",
+        "class":  "warlock",
+        "cost":  "3",
+        "text":  "Put 2 random Demons from your deck into your hand."
+    },
+    {
+        "name":  "Soulfire",
+        "rarity":  "Common",
+        "class":  "warlock",
+        "cost":  "1",
+        "text":  "Deal 4 damage. Discard a random card."
+    },
+    {
+        "name":  "Imp-losion",
+        "rarity":  "Rare",
+        "class":  "warlock",
+        "cost":  "4",
+        "text":  "Deal 2-4 damage to a minion. Summon a 1/1 Imp for each damage dealt."
+    },
+    {
+        "name":  "Shadowflame",
+        "rarity":  "Rare",
+        "class":  "warlock",
+        "cost":  "4",
+        "text":  "Destroy a friendly minion and deal its Attack damage to all enemy minions."
+    },
+    {
+        "name":  "Siphon Soul",
+        "rarity":  "Rare",
+        "class":  "warlock",
+        "cost":  "6",
+        "text":  "Destroy a minion. Restore #3 Health to your hero."
+    },
+    {
+        "name":  "Bane of Doom",
+        "rarity":  "Epic",
+        "class":  "warlock",
+        "cost":  "5",
+        "text":  "Deal 2 damage to a character.  If that kills it, summon a random Demon."
+    },
+    {
+        "name":  "Demonheart",
+        "rarity":  "Epic",
+        "class":  "warlock",
+        "cost":  "5",
+        "text":  "Deal 5 damage to a minion.  If it\u0027s a friendly Demon, give it +5/+5 instead."
+    },
+    {
+        "name":  "Twisting Nether",
+        "rarity":  "Epic",
+        "class":  "warlock",
+        "cost":  "8",
+        "text":  "Destroy all minions."
+    },
+    {
+        "name":  "Charge (card)",
+        "rarity":  "Free",
+        "class":  "warrior",
+        "cost":  "3",
+        "text":  "Give a friendly minion +2 Attack and \u003cb\u003eCharge\u003c/b\u003e."
+    },
+    {
+        "name":  "Execute",
+        "rarity":  "Free",
+        "class":  "warrior",
+        "cost":  "1",
+        "text":  "Destroy a damaged enemy minion."
+    },
+    {
+        "name":  "Heroic Strike",
+        "rarity":  "Free",
+        "class":  "warrior",
+        "cost":  "2",
+        "text":  "Give your hero +4 Attack this turn."
+    },
+    {
+        "name":  "Battle Rage",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "2",
+        "text":  "Draw a card for each damaged friendly character."
+    },
+    {
+        "name":  "Cleave",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "2",
+        "text":  "Deal 2 damage to two random enemy minions."
+    },
+    {
+        "name":  "Inner Rage",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "0",
+        "text":  "Deal 1 damage to a minion and give it +2 Attack."
+    },
+    {
+        "name":  "Rampage",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "2",
+        "text":  "Give a damaged minion +3/+3."
+    },
+    {
+        "name":  "Shield Block",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "3",
+        "text":  "Gain 5 Armor.  Draw a card."
+    },
+    {
+        "name":  "Slam",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "2",
+        "text":  "Deal 2 damage to a minion.  If it survives, draw a card."
+    },
+    {
+        "name":  "Whirlwind",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "1",
+        "text":  "Deal 1 damage to ALL minions."
+    },
+    {
+        "name":  "Commanding Shout",
+        "rarity":  "Rare",
+        "class":  "warrior",
+        "cost":  "2",
+        "text":  "Your minions can\u0027t be reduced below 1 Health this turn.  Draw a card."
+    },
+    {
+        "name":  "Mortal Strike",
+        "rarity":  "Rare",
+        "class":  "warrior",
+        "cost":  "4",
+        "text":  "Deal 4 damage.  If you have 12 or less Health, deal 6 instead."
+    },
+    {
+        "name":  "Upgrade!",
+        "rarity":  "Rare",
+        "class":  "warrior",
+        "cost":  "1",
+        "text":  "If you have a weapon, give it +1/+1.  Otherwise equip a 1/3 weapon."
+    },
+    {
+        "name":  "Bouncing Blade",
+        "rarity":  "Epic",
+        "class":  "warrior",
+        "cost":  "3",
+        "text":  "Deal 1 damage to a random minion. Repeat until a minion dies."
+    },
+    {
+        "name":  "Brawl",
+        "rarity":  "Epic",
+        "class":  "warrior",
+        "cost":  "5",
+        "text":  "Destroy all minions except one.  (chosen randomly)"
+    },
+    {
+        "name":  "Crush",
+        "rarity":  "Epic",
+        "class":  "warrior",
+        "cost":  "7",
+        "text":  "Destroy a minion. If you have a damaged minion, this costs (4) less."
+    },
+    {
+        "name":  "Shield Slam",
+        "rarity":  "Epic",
+        "class":  "warrior",
+        "cost":  "1",
+        "text":  "Deal 1 damage to a minion for each Armor you have."
+    }
+]

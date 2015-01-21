@@ -1,0 +1,164 @@
+[
+    {
+        "name":  "Fiery War Axe",
+        "rarity":  "Free",
+        "class":  "warrior",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  ""
+    },
+    {
+        "name":  "Light\u0027s Justice",
+        "rarity":  "Free",
+        "class":  "paladin",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "4",
+        "text":  ""
+    },
+    {
+        "name":  "Arcanite Reaper",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "2",
+        "text":  ""
+    },
+    {
+        "name":  "Assassin\u0027s Blade",
+        "rarity":  "Common",
+        "class":  "rogue",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "4",
+        "text":  ""
+    },
+    {
+        "name":  "Death\u0027s Bite",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Deal 1 damage to all minions."
+    },
+    {
+        "name":  "Glaivezooka",
+        "rarity":  "Common",
+        "class":  "hunter",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a random friendly minion +1 Attack."
+    },
+    {
+        "name":  "Ogre Warmaul",
+        "rarity":  "Common",
+        "class":  "warrior",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "50% chance to attack the wrong enemy."
+    },
+    {
+        "name":  "Stormforged Axe",
+        "rarity":  "Common",
+        "class":  "shaman",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eOverload:\u003c/b\u003e (1)"
+    },
+    {
+        "name":  "Truesilver Champion",
+        "rarity":  "Common",
+        "class":  "paladin",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "Whenever your hero attacks, restore 2 Health to it."
+    },
+    {
+        "name":  "Eaglehorn Bow",
+        "rarity":  "Rare",
+        "class":  "hunter",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "Whenever a friendly \u003cb\u003eSecret\u003c/b\u003e is revealed, gain +1 Durability."
+    },
+    {
+        "name":  "Perdition\u0027s Blade",
+        "rarity":  "Rare",
+        "class":  "rogue",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 1 damage. \u003cb\u003eCombo:\u003c/b\u003e Deal 2 instead."
+    },
+    {
+        "name":  "Powermace",
+        "rarity":  "Rare",
+        "class":  "shaman",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eDeathrattle\u003c/b\u003e: Give a random friendly Mech +2/+2."
+    },
+    {
+        "name":  "Coghammer",
+        "rarity":  "Epic",
+        "class":  "paladin",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a random friendly minion \u003cb\u003eDivine Shield\u003c/b\u003e and \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Cogmaster\u0027s Wrench",
+        "rarity":  "Epic",
+        "class":  "rogue",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "Has +2 Attack while you have a Mech."
+    },
+    {
+        "name":  "Doomhammer",
+        "rarity":  "Epic",
+        "class":  "shaman",
+        "cost":  "5",
+        "attack":  "2",
+        "health":  "8",
+        "text":  "\u003cb\u003eWindfury, Overload:\u003c/b\u003e (2)"
+    },
+    {
+        "name":  "Gladiator\u0027s Longbow",
+        "rarity":  "Epic",
+        "class":  "hunter",
+        "cost":  "7",
+        "attack":  "5",
+        "health":  "2",
+        "text":  "Your hero is \u003cb\u003eImmune\u003c/b\u003e while attacking."
+    },
+    {
+        "name":  "Gorehowl",
+        "rarity":  "Epic",
+        "class":  "warrior",
+        "cost":  "7",
+        "attack":  "7",
+        "health":  "1",
+        "text":  "Attacking a minion costs 1 Attack instead of 1 Durability."
+    },
+    {
+        "name":  "Sword of Justice",
+        "rarity":  "Epic",
+        "class":  "paladin",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "5",
+        "text":  "Whenever you summon a minion, give it +1/+1 and this loses 1 Durability."
+    }
+]

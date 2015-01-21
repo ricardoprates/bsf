@@ -1,0 +1,3392 @@
+[
+    {
+        "name":  "Bloodfen Raptor",
+        "rarity":  "Free",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  ""
+    },
+    {
+        "name":  "Boulderfist Ogre",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "7",
+        "text":  ""
+    },
+    {
+        "name":  "Houndmaster",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "hunter",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a friendly Beast +2/+2 and \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Magma Rager",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "5",
+        "health":  "1",
+        "text":  ""
+    },
+    {
+        "name":  "Murloc Raider",
+        "rarity":  "Free",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  ""
+    },
+    {
+        "name":  "Nightblade",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry: \u003c/b\u003eDeal 3 damage to the enemy hero."
+    },
+    {
+        "name":  "Northshire Cleric",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "Whenever a minion is healed, draw a card."
+    },
+    {
+        "name":  "Novice Engineer",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Draw a card."
+    },
+    {
+        "name":  "Oasis Snapjaw",
+        "rarity":  "Free",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "7",
+        "text":  ""
+    },
+    {
+        "name":  "Raid Leader",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "Your other minions have +1 Attack."
+    },
+    {
+        "name":  "Reckless Rocketeer",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "5",
+        "health":  "2",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e"
+    },
+    {
+        "name":  "River Crocolisk",
+        "rarity":  "Free",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  ""
+    },
+    {
+        "name":  "Sen\u0027jin Shieldmasta",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Stonetusk Boar",
+        "rarity":  "Free",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e"
+    },
+    {
+        "name":  "Succubus",
+        "rarity":  "Free",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "2",
+        "attack":  "4",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Discard a random card."
+    },
+    {
+        "name":  "Timber Wolf",
+        "rarity":  "Free",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "Your other Beasts have +1 Attack."
+    },
+    {
+        "name":  "Voidwalker",
+        "rarity":  "Free",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Voodoo Doctor",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Restore 2 Health."
+    },
+    {
+        "name":  "Warsong Commander",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "warrior",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Whenever you summon a minion with 3 or less Attack, give it \u003cb\u003eCharge\u003c/b\u003e."
+    },
+    {
+        "name":  "Wolfrider",
+        "rarity":  "Free",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "1",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e"
+    },
+    {
+        "name":  "Abusive Sergeant",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a minion +2 Attack this turn."
+    },
+    {
+        "name":  "Acidic Swamp Ooze",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy your opponent\u0027s weapon."
+    },
+    {
+        "name":  "Acolyte of Pain",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "Whenever this minion takes damage, draw a card."
+    },
+    {
+        "name":  "Amani Berserker",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eEnrage:\u003c/b\u003e +3 Attack"
+    },
+    {
+        "name":  "Ancient Brewmaster",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "5",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Return a friendly minion from the battlefield to your hand."
+    },
+    {
+        "name":  "Annoy-o-Tron",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e\u003cp\u003e\u003cb\u003eDivine Shield\u003c/b\u003e\u003c/p\u003e"
+    },
+    {
+        "name":  "Anodized Robo Cub",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "druid",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eChoose One -\u003c/b\u003e\u003cp\u003e+1 Attack; or +1 Health. \u003c/p\u003e"
+    },
+    {
+        "name":  "Antique Healbot",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Restore 8 Health to your hero."
+    },
+    {
+        "name":  "Anub\u0027ar Ambusher",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "4",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Return a random friendly minion to your hand."
+    },
+    {
+        "name":  "Arathi Weaponsmith",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "warrior",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Equip a 2/2 weapon."
+    },
+    {
+        "name":  "Archmage",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "7",
+        "text":  "\u003cb\u003eSpell Damage +1\u003c/b\u003e"
+    },
+    {
+        "name":  "Argent Protector",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "paladin",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a friendly minion \u003cb\u003eDivine Shield\u003c/b\u003e."
+    },
+    {
+        "name":  "Argent Squire",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eDivine Shield\u003c/b\u003e"
+    },
+    {
+        "name":  "Blood Imp",
+        "rarity":  "Common",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "1",
+        "attack":  "0",
+        "health":  "1",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e. At the end of your turn, give another random friendly minion +1 Health."
+    },
+    {
+        "name":  "Bloodsail Raider",
+        "rarity":  "Common",
+        "race":  "Pirate",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Gain Attack equal to the Attack of your weapon."
+    },
+    {
+        "name":  "Bluegill Warrior",
+        "rarity":  "Common",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e"
+    },
+    {
+        "name":  "Booty Bay Bodyguard",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "4",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Burly Rockjaw Trogg",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "Whenever your opponent casts a spell, gain +2 Attack."
+    },
+    {
+        "name":  "Chillwind Yeti",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "5",
+        "text":  ""
+    },
+    {
+        "name":  "Clockwork Gnome",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Add a \u003cb\u003eSpare Part\u003c/b\u003e card to your hand."
+    },
+    {
+        "name":  "Cogmaster",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "Has +2 Attack while you have a Mech."
+    },
+    {
+        "name":  "Core Hound",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "7",
+        "attack":  "9",
+        "health":  "5",
+        "text":  ""
+    },
+    {
+        "name":  "Cruel Taskmaster",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "warrior",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 1 damage to a minion and give it +2 Attack."
+    },
+    {
+        "name":  "Cult Master",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "Whenever one of your other minions dies, draw a card."
+    },
+    {
+        "name":  "Dalaran Mage",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "\u003cb\u003eSpell Damage +1\u003c/b\u003e"
+    },
+    {
+        "name":  "Dancing Swords",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Your opponent draws a card."
+    },
+    {
+        "name":  "Dark Cultist",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "4",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Give a random friendly minion +3 Health."
+    },
+    {
+        "name":  "Dark Iron Dwarf",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a minion +2 Attack this turn."
+    },
+    {
+        "name":  "Darkscale Healer",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Restore 2 Health to all friendly characters."
+    },
+    {
+        "name":  "Defias Ringleader",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eCombo:\u003c/b\u003e Summon a 2/1 Defias Bandit."
+    },
+    {
+        "name":  "Dire Wolf Alpha",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "Adjacent minions have +1 Attack."
+    },
+    {
+        "name":  "Dragonling Mechanic",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Summon a 2/1 Mechanical Dragonling."
+    },
+    {
+        "name":  "Dread Corsair",
+        "rarity":  "Common",
+        "race":  "Pirate",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eTaunt.\u003c/b\u003e Costs (1) less per Attack of your weapon."
+    },
+    {
+        "name":  "Dread Infernal",
+        "rarity":  "Common",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "6",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 1 damage to ALL other characters."
+    },
+    {
+        "name":  "Druid of the Claw",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "druid",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eChoose One -\u003c/b\u003e\u003cb\u003eCharge\u003c/b\u003e; or +2 Health and \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Druid of the Fang",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "druid",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e If you have a Beast, transform this minion into a 7/7."
+    },
+    {
+        "name":  "Dust Devil",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "shaman",
+        "cost":  "1",
+        "attack":  "3",
+        "health":  "1",
+        "text":  "\u003cb\u003eWindfury\u003c/b\u003e. \u003cb\u003eOverload:\u003c/b\u003e (2)"
+    },
+    {
+        "name":  "Earthen Ring Farseer",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Restore 3 Health."
+    },
+    {
+        "name":  "Elven Archer",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 1 damage."
+    },
+    {
+        "name":  "Explosive Sheep",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Deal 2 damage to all minions."
+    },
+    {
+        "name":  "Faerie Dragon",
+        "rarity":  "Common",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "Can\u0027t be targeted by Spells or Hero Powers."
+    },
+    {
+        "name":  "Fen Creeper",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "6",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Fire Elemental",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "shaman",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 3 damage."
+    },
+    {
+        "name":  "Flame Imp",
+        "rarity":  "Common",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "1",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 3 damage to your hero."
+    },
+    {
+        "name":  "Flametongue Totem",
+        "rarity":  "Common",
+        "race":  "Totem",
+        "class":  "shaman",
+        "cost":  "2",
+        "attack":  "0",
+        "health":  "3",
+        "text":  "Adjacent minions have +2 Attack."
+    },
+    {
+        "name":  "Flesheating Ghoul",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Whenever a minion dies, gain +1 Attack. \u0027"
+    },
+    {
+        "name":  "Floating Watcher",
+        "rarity":  "Common",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "Whenever your hero takes damage on your turn, gain +2/+2."
+    },
+    {
+        "name":  "Flying Machine",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "\u003cb\u003eWindfury\u003c/b\u003e"
+    },
+    {
+        "name":  "Force-Tank MAX",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "8",
+        "attack":  "7",
+        "health":  "7",
+        "text":  "\u003cb\u003eDivine Shield\u003c/b\u003e"
+    },
+    {
+        "name":  "Frost Elemental",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e\u003cb\u003eFreeze\u003c/b\u003e a character."
+    },
+    {
+        "name":  "Frostwolf Grunt",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Frostwolf Warlord",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Gain +1/+1 for each other friendly minion on the battlefield."
+    },
+    {
+        "name":  "Gilblin Stalker",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e\u003cp\u003e\"Ah, it\u0027s probably nothing.\" - Every Henchman\n\u003c/p\u003e"
+    },
+    {
+        "name":  "Gnomeregan Infantry",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e\u003cp\u003e\u003cb\u003eTaunt\u003c/b\u003e\u003c/p\u003e"
+    },
+    {
+        "name":  "Gnomish Inventor",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Draw a card."
+    },
+    {
+        "name":  "Goblin Auto-Barber",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "rogue",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry\u003c/b\u003e: Give your weapon +1 Attack."
+    },
+    {
+        "name":  "Goldshire Footman",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Grimscale Oracle",
+        "rarity":  "Common",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "ALL other Murlocs have +1 Attack."
+    },
+    {
+        "name":  "Guardian of Kings",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "paladin",
+        "cost":  "7",
+        "attack":  "5",
+        "health":  "6",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Restore 6 Health to your hero."
+    },
+    {
+        "name":  "Gurubashi Berserker",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "2",
+        "health":  "7",
+        "text":  "Whenever this minion takes damage, gain +3 Attack."
+    },
+    {
+        "name":  "Harvest Golem",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a 2/1 Damaged Golem."
+    },
+    {
+        "name":  "Haunted Creeper",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon two 1/1 Spectral Spiders."
+    },
+    {
+        "name":  "Ironbark Protector",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "druid",
+        "cost":  "8",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Ironbeak Owl",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e\u003cb\u003eSilence\u003c/b\u003e a minion."
+    },
+    {
+        "name":  "Ironforge Rifleman",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 1 damage."
+    },
+    {
+        "name":  "Ironfur Grizzly",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Jungle Panther",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e"
+    },
+    {
+        "name":  "Kobold Geomancer",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eSpell Damage +1\u003c/b\u003e"
+    },
+    {
+        "name":  "Kor\u0027kron Elite",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "warrior",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "3",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e"
+    },
+    {
+        "name":  "Leper Gnome",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Deal 2 damage to the enemy hero."
+    },
+    {
+        "name":  "Lightspawn",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "4",
+        "attack":  "0",
+        "health":  "5",
+        "text":  "This minion\u0027s Attack is always equal to its Health."
+    },
+    {
+        "name":  "Loot Hoarder",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Draw a card."
+    },
+    {
+        "name":  "Lord of the Arena",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "5",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Lost Tallstrider",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "5",
+        "health":  "4",
+        "text":  ""
+    },
+    {
+        "name":  "Mad Bomber",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 3 damage randomly split between all other characters."
+    },
+    {
+        "name":  "Mad Scientist",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Put a \u003cb\u003eSecret\u003c/b\u003e from your deck into the battlefield."
+    },
+    {
+        "name":  "Mana Wyrm",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "mage",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "Whenever you cast a spell, gain +1 Attack."
+    },
+    {
+        "name":  "Mechanical Yeti",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Give each player a \u003cb\u003eSpare Part.\u003c/b\u003e"
+    },
+    {
+        "name":  "Mechwarper",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Your Mechs cost (1) less."
+    },
+    {
+        "name":  "Micro Machine",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "At the start of each turn, gain +1 Attack."
+    },
+    {
+        "name":  "Mogu\u0027shan Warden",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "1",
+        "health":  "7",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Murloc Tidehunter",
+        "rarity":  "Common",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Summon a 1/1 Murloc Scout."
+    },
+    {
+        "name":  "Nerub\u0027ar Weblord",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "Minions with \u003cb\u003eBattlecry\u003c/b\u003e cost (2) more."
+    },
+    {
+        "name":  "Ogre Brute",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "50% chance to attack the wrong enemy."
+    },
+    {
+        "name":  "Ogre Magi",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eSpell Damage +1\u003c/b\u003e"
+    },
+    {
+        "name":  "Piloted Shredder",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "3",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a random 2-Cost minion."
+    },
+    {
+        "name":  "Priestess of Elune",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "5",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Restore 4 Health to your hero."
+    },
+    {
+        "name":  "Puddlestomper",
+        "rarity":  "Common",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  ""
+    },
+    {
+        "name":  "Raging Worgen",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eEnrage:\u003c/b\u003e\u003cb\u003eWindfury\u003c/b\u003e and +1 Attack"
+    },
+    {
+        "name":  "Razorfen Hunter",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Summon a 1/1 Boar."
+    },
+    {
+        "name":  "Salty Dog",
+        "rarity":  "Common",
+        "race":  "Pirate",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "7",
+        "health":  "4",
+        "text":  ""
+    },
+    {
+        "name":  "Scarlet Crusader",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "1",
+        "text":  "\u003cb\u003eDivine Shield\u003c/b\u003e"
+    },
+    {
+        "name":  "Scavenging Hyena",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "Whenever a friendly Beast dies, gain +2/+1."
+    },
+    {
+        "name":  "Shattered Sun Cleric",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a friendly minion +1/+1."
+    },
+    {
+        "name":  "Shieldbearer",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "0",
+        "health":  "4",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Shielded Minibot",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "paladin",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eDivine Shield\u003c/b\u003e"
+    },
+    {
+        "name":  "Ship\u0027s Cannon",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Whenever you summon a Pirate, deal 2 damage to a random enemy."
+    },
+    {
+        "name":  "Shrinkmeister",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a minion -2 Attack this turn."
+    },
+    {
+        "name":  "Silver Hand Knight",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Summon a 2/2 Squire."
+    },
+    {
+        "name":  "Silverback Patriarch",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Silvermoon Guardian",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eDivine Shield\u003c/b\u003e"
+    },
+    {
+        "name":  "Snowchugger",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "mage",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eFreeze\u003c/b\u003e any character damaged by this minion."
+    },
+    {
+        "name":  "Sorcerer\u0027s Apprentice",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "mage",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "Your spells cost (1) less."
+    },
+    {
+        "name":  "Southsea Deckhand",
+        "rarity":  "Common",
+        "race":  "Pirate",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "Has \u003cb\u003eCharge\u003c/b\u003e while you have a weapon equipped."
+    },
+    {
+        "name":  "Spectral Knight",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "6",
+        "text":  "Can\u0027t be targeted by spells or Hero Powers."
+    },
+    {
+        "name":  "Spellbreaker",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e\u003cb\u003eSilence\u003c/b\u003e a minion."
+    },
+    {
+        "name":  "Spider Tank",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "4",
+        "text":  ""
+    },
+    {
+        "name":  "Spiteful Smith",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "6",
+        "text":  "\u003cb\u003eEnrage:\u003c/b\u003e Your weapon has +2 Attack."
+    },
+    {
+        "name":  "Starving Buzzard",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "Whenever you summon a Beast, draw a card."
+    },
+    {
+        "name":  "Stoneskin Gargoyle",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "At the start of your turn, restore this minion to full Health."
+    },
+    {
+        "name":  "Stonesplinter Trogg",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Whenever your opponent casts a spell, gain +1 Attack."
+    },
+    {
+        "name":  "Stormpike Commando",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 2 damage."
+    },
+    {
+        "name":  "Stormwind Champion",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "7",
+        "attack":  "6",
+        "health":  "6",
+        "text":  "Your other minions have +1/+1."
+    },
+    {
+        "name":  "Stormwind Knight",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "5",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e"
+    },
+    {
+        "name":  "Stranglethorn Tiger",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e"
+    },
+    {
+        "name":  "Summoning Portal",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "warlock",
+        "cost":  "4",
+        "attack":  "0",
+        "health":  "4",
+        "text":  "Your minions cost (2) less, but not less than (1)."
+    },
+    {
+        "name":  "Tauren Warrior",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eEnrage:\u003c/b\u003e +3 Attack"
+    },
+    {
+        "name":  "Temple Enforcer",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "6",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a friendly minion +3 Health."
+    },
+    {
+        "name":  "Thrallmar Farseer",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eWindfury\u003c/b\u003e"
+    },
+    {
+        "name":  "Tinkertown Technician",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e If you have a Mech, gain +1/+1 and add a \u003cb\u003eSpare Part\u003c/b\u003e to your hand."
+    },
+    {
+        "name":  "Tundra Rhino",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "5",
+        "attack":  "2",
+        "health":  "5",
+        "text":  "Your Beasts have \u003cb\u003eCharge\u003c/b\u003e."
+    },
+    {
+        "name":  "Unbound Elemental",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "shaman",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "Whenever you play a card with \u003cb\u003eOverload\u003c/b\u003e, gain +1/+1."
+    },
+    {
+        "name":  "Undertaker",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "Whenever you summon a minion with \u003cb\u003eDeathrattle\u003c/b\u003e, gain +1/+1."
+    },
+    {
+        "name":  "Unstable Ghoul",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eDeathrattle:\u003c/b\u003e Deal 1 damage to all minions."
+    },
+    {
+        "name":  "Venture Co. Mercenary",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "7",
+        "health":  "6",
+        "text":  "Your minions cost (3) more."
+    },
+    {
+        "name":  "Voidcaller",
+        "rarity":  "Common",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "4",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Put a random Demon from your hand into the battlefield."
+    },
+    {
+        "name":  "War Golem",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "7",
+        "attack":  "7",
+        "health":  "7",
+        "text":  ""
+    },
+    {
+        "name":  "Warbot",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "warrior",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "\u003cb\u003eEnrage:\u003c/b\u003e +1 Attack."
+    },
+    {
+        "name":  "Water Elemental",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "mage",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "6",
+        "text":  "\u003cb\u003eFreeze\u003c/b\u003e any character damaged by this minion."
+    },
+    {
+        "name":  "Webspinner",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Add a random Beast card to your hand."
+    },
+    {
+        "name":  "Whirling Zap-o-matic",
+        "rarity":  "Common",
+        "race":  "Mech",
+        "class":  "shaman",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eWindfury\u003c/b\u003e"
+    },
+    {
+        "name":  "Windfury Harpy",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "\u003cb\u003eWindfury\u003c/b\u003e"
+    },
+    {
+        "name":  "Windspeaker",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "shaman",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a friendly minion \u003cb\u003eWindfury\u003c/b\u003e."
+    },
+    {
+        "name":  "Wisp",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "0",
+        "attack":  "1",
+        "health":  "1",
+        "text":  ""
+    },
+    {
+        "name":  "Worgen Infiltrator",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e"
+    },
+    {
+        "name":  "Young Dragonhawk",
+        "rarity":  "Common",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eWindfury\u003c/b\u003e"
+    },
+    {
+        "name":  "Youthful Brewmaster",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Return a friendly minion from the battlefield to your hand."
+    },
+    {
+        "name":  "Zombie Chow",
+        "rarity":  "Common",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Restore 5 Health to the enemy hero."
+    },
+    {
+        "name":  "Abomination",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eDeathrattle:\u003c/b\u003e Deal 2 damage to ALL characters."
+    },
+    {
+        "name":  "Alarm-o-Bot",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "0",
+        "health":  "3",
+        "text":  "At the start of your turn, swap this minion with a random one in your hand."
+    },
+    {
+        "name":  "Aldor Peacekeeper",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "paladin",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Change an enemy minion\u0027s Attack to 1."
+    },
+    {
+        "name":  "Ancient Mage",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give adjacent minions \u003cb\u003eSpell Damage +1\u003c/b\u003e."
+    },
+    {
+        "name":  "Ancient Watcher",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "Can\u0027t Attack."
+    },
+    {
+        "name":  "Angry Chicken",
+        "rarity":  "Rare",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eEnrage:\u003c/b\u003e +5 Attack."
+    },
+    {
+        "name":  "Arcane Golem",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e. \u003cb\u003eBattlecry:\u003c/b\u003e Give your opponent a Mana Crystal."
+    },
+    {
+        "name":  "Arcane Nullifier X-21",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "5",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e\u003cp\u003eCan\u0027t be targeted by spells or Hero Powers. \u003c/p\u003e"
+    },
+    {
+        "name":  "Argent Commander",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e, \u003cb\u003eDivine Shield\u003c/b\u003e"
+    },
+    {
+        "name":  "Armorsmith",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "warrior",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "Whenever a friendly minion takes damage, gain 1 Armor."
+    },
+    {
+        "name":  "Auchenai Soulpriest",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "Your cards and powers that restore Health now deal damage instead."
+    },
+    {
+        "name":  "Azure Drake",
+        "rarity":  "Rare",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eSpell Damage +1\u003c/b\u003e. \u003cb\u003eBattlecry:\u003c/b\u003e Draw a card."
+    },
+    {
+        "name":  "Bloodsail Corsair",
+        "rarity":  "Rare",
+        "race":  "Pirate",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Remove 1 Durability from your opponent\u0027s weapon."
+    },
+    {
+        "name":  "Bomb Lobber",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 4 damage to a random enemy minion."
+    },
+    {
+        "name":  "Cobalt Guardian",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "paladin",
+        "cost":  "5",
+        "attack":  "6",
+        "health":  "3",
+        "text":  "Whenever you summon a Mech, gain \u003cb\u003eDivine Shield\u003c/b\u003e."
+    },
+    {
+        "name":  "Coldlight Oracle",
+        "rarity":  "Rare",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Each player draws 2 cards."
+    },
+    {
+        "name":  "Coldlight Seer",
+        "rarity":  "Rare",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give ALL other Murlocs +2 Health."
+    },
+    {
+        "name":  "Crazed Alchemist",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Swap the Attack and Health of a minion."
+    },
+    {
+        "name":  "Deathlord",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "8",
+        "text":  "\u003cb\u003eTaunt. Deathrattle:\u003c/b\u003e Your opponent puts a minion from their deck into the battlefield."
+    },
+    {
+        "name":  "Defender of Argus",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give adjacent minions +1/+1 and \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Demolisher",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "At the start of your turn, deal 2 damage to a random enemy."
+    },
+    {
+        "name":  "Doomguard",
+        "rarity":  "Rare",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "7",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e. \u003cb\u003eBattlecry:\u003c/b\u003e Discard two random cards."
+    },
+    {
+        "name":  "Dunemaul Shaman",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "shaman",
+        "cost":  "4",
+        "attack":  "5",
+        "health":  "4",
+        "text":  "\u003cb\u003eWindfury, Overload: (1)\u003c/b\u003e\u003cp\u003e50% chance to attack the wrong enemy. \u003c/p\u003e"
+    },
+    {
+        "name":  "Emperor Cobra",
+        "rarity":  "Rare",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Destroy any minion damaged by this minion."
+    },
+    {
+        "name":  "Ethereal Arcanist",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "mage",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "If you control a \u003cb\u003eSecret\u003c/b\u003e at the end of your turn, gain +2/+2."
+    },
+    {
+        "name":  "Fel Cannon",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "warlock",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "At the end of your turn, deal 2 damage to a non-Mech minion."
+    },
+    {
+        "name":  "Felguard",
+        "rarity":  "Rare",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eBattlecry:\u003c/b\u003e Destroy one of your Mana Crystals."
+    },
+    {
+        "name":  "Frothing Berserker",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "warrior",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "Whenever a minion takes damage, gain +1 Attack."
+    },
+    {
+        "name":  "Gadgetzan Auctioneer",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "Whenever you cast a spell, draw a card."
+    },
+    {
+        "name":  "Gnomish Experimenter",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Draw a card. If it\u0027s a minion, transform it into a Chicken."
+    },
+    {
+        "name":  "Goblin Blastmage",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "mage",
+        "cost":  "4",
+        "attack":  "5",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e If you have a Mech, deal 4 damage randomly split among all enemies."
+    },
+    {
+        "name":  "Goblin Sapper",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "Has +4 Attack while your opponent has 6 or more cards in hand."
+    },
+    {
+        "name":  "Grove Tender",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "druid",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "\u003cb\u003eChoose One -\u003c/b\u003e Give each player a Mana Crystal; or Each player draws a card."
+    },
+    {
+        "name":  "Illuminator",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "If you control a \u003cb\u003eSecret\u003c/b\u003e at the end of your turn, restore 4 health to your hero."
+    },
+    {
+        "name":  "Imp Master",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "1",
+        "health":  "5",
+        "text":  "At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp."
+    },
+    {
+        "name":  "Injured Blademaster",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "7",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 4 damage to HIMSELF."
+    },
+    {
+        "name":  "Iron Sensei",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "rogue",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "At the end of your turn, give another friendly Mech +2/+2. \u003cp\u003e0110100001101001\n\u003c/p\u003e"
+    },
+    {
+        "name":  "Jeeves",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "At the end of each player\u0027s turn, that player draws until they have 3 cards."
+    },
+    {
+        "name":  "Keeper of the Grove",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "druid",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "\u003cb\u003eChoose One\u003c/b\u003e - Deal 2 damage; or \u003cb\u003eSilence\u003c/b\u003e a minion."
+    },
+    {
+        "name":  "Kezan Mystic",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Take control of a random enemy \u003cb\u003eSecret\u003c/b\u003e."
+    },
+    {
+        "name":  "King of Beasts",
+        "rarity":  "Rare",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "5",
+        "attack":  "2",
+        "health":  "6",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eBattlecry:\u003c/b\u003e Gain +1 Attack for each other Beast you have."
+    },
+    {
+        "name":  "Kirin Tor Mage",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "mage",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e The next \u003cb\u003eSecret\u003c/b\u003e you play this turn costs (0)."
+    },
+    {
+        "name":  "Knife Juggler",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "After you summon a minion, deal 1 damage to a random enemy."
+    },
+    {
+        "name":  "Lightwarden",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "Whenever a character is healed, gain +2 Attack."
+    },
+    {
+        "name":  "Lightwell",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "2",
+        "attack":  "0",
+        "health":  "5",
+        "text":  "At the start of your turn, restore 3 Health to a damaged friendly character."
+    },
+    {
+        "name":  "Lil\u0027 Exorcist",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e\u003cp\u003e\u003cb\u003eBattlecry:\u003c/b\u003e Gain +1/+1 for each enemy \u003cb\u003eDeathrattle\u003c/b\u003e minion. \u003c/p\u003e"
+    },
+    {
+        "name":  "Madder Bomber",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 6 damage randomly split between all other characters."
+    },
+    {
+        "name":  "Mana Addict",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "Whenever you cast a spell, gain +2 Attack this turn."
+    },
+    {
+        "name":  "Mana Tide Totem",
+        "rarity":  "Rare",
+        "race":  "Totem",
+        "class":  "shaman",
+        "cost":  "3",
+        "attack":  "0",
+        "health":  "3",
+        "text":  "At the end of your turn, draw a card."
+    },
+    {
+        "name":  "Mana Wraith",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "ALL minions cost (1) more."
+    },
+    {
+        "name":  "Master Swordsmith",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "3",
+        "text":  "At the end of your turn, give another random friendly minion +1 Attack."
+    },
+    {
+        "name":  "Master of Disguise",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a friendly minion \u003cb\u003eStealth\u003c/b\u003e."
+    },
+    {
+        "name":  "Mech-Bear-Cat",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "druid",
+        "cost":  "6",
+        "attack":  "7",
+        "health":  "6",
+        "text":  "Whenever this minion takes damage, add a \u003cb\u003eSpare Part\u003c/b\u003e card to your hand."
+    },
+    {
+        "name":  "Metaltooth Leaper",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "hunter",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry\u003c/b\u003e: Give your other Mechs +2 Attack."
+    },
+    {
+        "name":  "Mind Control Tech",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e If your opponent has 4 or more minions, take control of one at random."
+    },
+    {
+        "name":  "Mistress of Pain",
+        "rarity":  "Rare",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "4",
+        "text":  "Whenever this minion deals damage, restore that much Health to your hero."
+    },
+    {
+        "name":  "Murloc Tidecaller",
+        "rarity":  "Rare",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "Whenever a Murloc is summoned, gain +1 Attack."
+    },
+    {
+        "name":  "Nerubian Egg",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "0",
+        "health":  "2",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a 4/4 Nerubian."
+    },
+    {
+        "name":  "Ogre Ninja",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "5",
+        "attack":  "6",
+        "health":  "6",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e\u003cp\u003e50% chance to attack the wrong enemy. \u003c/p\u003e"
+    },
+    {
+        "name":  "One-eyed Cheat",
+        "rarity":  "Rare",
+        "race":  "Pirate",
+        "class":  "rogue",
+        "cost":  "2",
+        "attack":  "4",
+        "health":  "1",
+        "text":  "Whenever you summon a Pirate, gain \u003cb\u003eStealth\u003c/b\u003e."
+    },
+    {
+        "name":  "Pint-Sized Summoner",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "The first minion you play each turn costs (1) less."
+    },
+    {
+        "name":  "Questing Adventurer",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "Whenever you play a card, gain +1/+1."
+    },
+    {
+        "name":  "Ravenholdt Assassin",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "7",
+        "attack":  "7",
+        "health":  "5",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e"
+    },
+    {
+        "name":  "SI:7 Agent",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eCombo:\u003c/b\u003e Deal 2 damage."
+    },
+    {
+        "name":  "Savannah Highmane",
+        "rarity":  "Rare",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "5",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon two 2/2 Hyenas."
+    },
+    {
+        "name":  "Scarlet Purifier",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "paladin",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry\u003c/b\u003e: Deal 2 damage to all minions with \u003cb\u003eDeathrattle\u003c/b\u003e."
+    },
+    {
+        "name":  "Screwjank Clunker",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "warrior",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry\u003c/b\u003e: Give a friendly Mech +2/+2."
+    },
+    {
+        "name":  "Secretkeeper",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "Whenever a \u003cb\u003eSecret\u003c/b\u003e is played, gain +1/+1."
+    },
+    {
+        "name":  "Shadowboxer",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "priest",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Whenever a character is healed, deal 1 damage to a random enemy."
+    },
+    {
+        "name":  "Shieldmaiden",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "warrior",
+        "cost":  "6",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Gain 5 Armor."
+    },
+    {
+        "name":  "Siege Engine",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "warrior",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "Whenever you gain Armor, give this minion +1 Attack."
+    },
+    {
+        "name":  "Sludge Belcher",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "\u003cb\u003eTaunt.\n\u003c/b\u003e\u003cp\u003e\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a 1/2 Slime with \u003cb\u003eTaunt\u003c/b\u003e. \u003c/p\u003e"
+    },
+    {
+        "name":  "Soot Spewer",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "mage",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eSpell Damage +1\u003c/b\u003e"
+    },
+    {
+        "name":  "Stampeding Kodo",
+        "rarity":  "Rare",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy a random enemy minion with 2 or less Attack."
+    },
+    {
+        "name":  "Sunfury Protector",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give adjacent minions \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Sunwalker",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eDivine Shield\u003c/b\u003e"
+    },
+    {
+        "name":  "Target Dummy",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "0",
+        "attack":  "0",
+        "health":  "2",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Twilight Drake",
+        "rarity":  "Rare",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Gain +1 Health for each card in your hand."
+    },
+    {
+        "name":  "Upgraded Repair Bot",
+        "rarity":  "Rare",
+        "race":  "Mech",
+        "class":  "priest",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give a friendly Mech +4 Health."
+    },
+    {
+        "name":  "Violet Teacher",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "Whenever you cast a spell, summon a 1/1 Violet Apprentice."
+    },
+    {
+        "name":  "Vitality Totem",
+        "rarity":  "Rare",
+        "race":  "Totem",
+        "class":  "shaman",
+        "cost":  "2",
+        "attack":  "0",
+        "health":  "3",
+        "text":  "At the end of your turn, restore 4 Health to your hero."
+    },
+    {
+        "name":  "Void Terror",
+        "rarity":  "Rare",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy the minions on either side of this minion and gain their Attack and Health."
+    },
+    {
+        "name":  "Wailing Soul",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry: Silence\u003c/b\u003e your other minions."
+    },
+    {
+        "name":  "Wild Pyromancer",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "After you cast a spell, deal 1 damage to ALL minions."
+    },
+    {
+        "name":  "Young Priestess",
+        "rarity":  "Rare",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "At the end of your turn, give another random friendly minion +1 Health."
+    },
+    {
+        "name":  "Ancient of Lore",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "druid",
+        "cost":  "7",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eChoose One -\u003c/b\u003e Draw 2 cards; or Restore 5 Health."
+    },
+    {
+        "name":  "Ancient of War",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "druid",
+        "cost":  "7",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eChoose One\u003c/b\u003e - +5 Attack; or +5 Health and \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Anima Golem",
+        "rarity":  "Epic",
+        "race":  "Mech",
+        "class":  "warlock",
+        "cost":  "6",
+        "attack":  "9",
+        "health":  "9",
+        "text":  "At the end of each turn, destroy this minion if it\u0027s your only one."
+    },
+    {
+        "name":  "Big Game Hunter",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "4",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy a minion with an Attack of 7 or more."
+    },
+    {
+        "name":  "Blood Knight",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e All minions lose \u003cb\u003eDivine Shield\u003c/b\u003e. Gain +3/+3 for each Shield lost."
+    },
+    {
+        "name":  "Cabal Shadow Priest",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Take control of an enemy minion that has 2 or less Attack."
+    },
+    {
+        "name":  "Captain\u0027s Parrot",
+        "rarity":  "Epic",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Put a random Pirate from your deck into your hand."
+    },
+    {
+        "name":  "Clockwork Giant",
+        "rarity":  "Epic",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "12",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "Costs (1) less for each card in your opponent\u0027s hand."
+    },
+    {
+        "name":  "Doomsayer",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "0",
+        "health":  "7",
+        "text":  "At the start of your turn, destroy ALL minions."
+    },
+    {
+        "name":  "Earth Elemental",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "shaman",
+        "cost":  "5",
+        "attack":  "7",
+        "health":  "8",
+        "text":  "\u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eOverload:\u003c/b\u003e (3)"
+    },
+    {
+        "name":  "Echoing Ooze",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Summon an exact copy of this minion at the end of the turn."
+    },
+    {
+        "name":  "Enhance-o Mechano",
+        "rarity":  "Epic",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give your other minions \u003cb\u003eWindfury\u003c/b\u003e, \u003cb\u003eTaunt\u003c/b\u003e, or \u003cb\u003eDivine Shield\u003c/b\u003e.\n\u003cp\u003e\u003c/p\u003e"
+    },
+    {
+        "name":  "Faceless Manipulator",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Choose a minion and become a copy of it."
+    },
+    {
+        "name":  "Fel Reaver",
+        "rarity":  "Epic",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "Whenever your opponent plays a card, discard the top 3 cards of your deck."
+    },
+    {
+        "name":  "Hobgoblin",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Whenever you play a 1-Attack minion, give it +2/+2."
+    },
+    {
+        "name":  "Hungry Crab",
+        "rarity":  "Epic",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "1",
+        "attack":  "1",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy a Murloc and gain +2/+2."
+    },
+    {
+        "name":  "Junkbot",
+        "rarity":  "Epic",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "1",
+        "health":  "5",
+        "text":  "Whenever a friendly Mech dies, gain +2/+2."
+    },
+    {
+        "name":  "Kidnapper",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "6",
+        "attack":  "5",
+        "health":  "3",
+        "text":  "\u003cb\u003eCombo:\u003c/b\u003e Return a minion to its owner\u0027s hand."
+    },
+    {
+        "name":  "Mini-Mage",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "4",
+        "health":  "1",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e\u003cp\u003e\u003cb\u003eSpell Damage +1\u003c/b\u003e\u003c/p\u003e"
+    },
+    {
+        "name":  "Molten Giant",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "20",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "Costs (1) less for each damage your hero has taken."
+    },
+    {
+        "name":  "Mountain Giant",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "12",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "Costs (1) less for each other card in your hand."
+    },
+    {
+        "name":  "Murloc Warleader",
+        "rarity":  "Epic",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "ALL other Murlocs have +2/+1."
+    },
+    {
+        "name":  "Patient Assassin",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eStealth\u003c/b\u003e. Destroy any minion damaged by this minion."
+    },
+    {
+        "name":  "Piloted Sky Golem",
+        "rarity":  "Epic",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "4",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a random 4-Cost minion."
+    },
+    {
+        "name":  "Pit Lord",
+        "rarity":  "Epic",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "4",
+        "attack":  "5",
+        "health":  "6",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 5 damage to your hero."
+    },
+    {
+        "name":  "Quartermaster",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "paladin",
+        "cost":  "5",
+        "attack":  "2",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give your Silver Hand Recruits +2/+2."
+    },
+    {
+        "name":  "Recombobulator",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "3",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Transform a friendly minion into a random minion with the same Cost."
+    },
+    {
+        "name":  "Sea Giant",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "10",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "Costs (1) less for each other minion on the battlefield."
+    },
+    {
+        "name":  "Shade of Naxxramas",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eStealth.\u003c/b\u003e At the start of your turn, gain +1/+1."
+    },
+    {
+        "name":  "Shadowbomber",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "1",
+        "attack":  "2",
+        "health":  "1",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Deal 3 damage to each hero."
+    },
+    {
+        "name":  "Siltfin Spiritwalker",
+        "rarity":  "Epic",
+        "race":  "Murloc",
+        "class":  "shaman",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "5",
+        "text":  "Whenever another friendly Murloc dies, draw a card. \u003cb\u003eOverload\u003c/b\u003e: (1)"
+    },
+    {
+        "name":  "Southsea Captain",
+        "rarity":  "Epic",
+        "race":  "Pirate",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "Your other Pirates have +1/+1."
+    },
+    {
+        "name":  "Steamwheedle Sniper",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "hunter",
+        "cost":  "2",
+        "attack":  "2",
+        "health":  "3",
+        "text":  "Your Hero Power can target minions."
+    },
+    {
+        "name":  "Wee Spellstopper",
+        "rarity":  "Epic",
+        "race":  "General",
+        "class":  "mage",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "5",
+        "text":  "Adjacent minions can\u0027t be targeted by spells or Hero Powers."
+    },
+    {
+        "name":  "Al\u0027Akir the Windlord",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "shaman",
+        "cost":  "8",
+        "attack":  "3",
+        "health":  "5",
+        "text":  "\u003cb\u003eWindfury, Charge, Divine Shield, Taunt\u003c/b\u003e"
+    },
+    {
+        "name":  "Alexstrasza",
+        "rarity":  "Legendary",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "9",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Set a hero\u0027s remaining Health to 15."
+    },
+    {
+        "name":  "Archmage Antonidas",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "mage",
+        "cost":  "7",
+        "attack":  "5",
+        "health":  "7",
+        "text":  "Whenever you cast a spell, put a \u0027Fireball\u0027 spell into your hand."
+    },
+    {
+        "name":  "Baron Geddon",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "7",
+        "attack":  "7",
+        "health":  "5",
+        "text":  "At the end of your turn, deal 2 damage to ALL other characters."
+    },
+    {
+        "name":  "Baron Rivendare",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "1",
+        "health":  "7",
+        "text":  "Your minions trigger their \u003cb\u003eDeathrattles\u003c/b\u003e twice."
+    },
+    {
+        "name":  "Blingtron 3000",
+        "rarity":  "Legendary",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "3",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Equip a random weapon for each player."
+    },
+    {
+        "name":  "Bloodmage Thalnos",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "1",
+        "health":  "1",
+        "text":  "\u003cb\u003eSpell Damage +1\u003c/b\u003e. \u003cb\u003eDeathrattle:\u003c/b\u003e Draw a card."
+    },
+    {
+        "name":  "Bolvar Fordragon",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "paladin",
+        "cost":  "5",
+        "attack":  "1",
+        "health":  "7",
+        "text":  "Whenever a friendly minion dies while this is in your hand, gain +1 Attack."
+    },
+    {
+        "name":  "Cairne Bloodhoof",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a 4/5 Baine Bloodhoof."
+    },
+    {
+        "name":  "Captain Greenskin",
+        "rarity":  "Legendary",
+        "race":  "Pirate",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give your weapon +1/+1."
+    },
+    {
+        "name":  "Cenarius",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "druid",
+        "cost":  "9",
+        "attack":  "5",
+        "health":  "8",
+        "text":  "\u003cb\u003eChoose One\u003c/b\u003e - Give your other minions +2/+2; or Summon two 2/2 Treants with \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Deathwing",
+        "rarity":  "Legendary",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "10",
+        "attack":  "12",
+        "health":  "12",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy all other minions and discard your hand."
+    },
+    {
+        "name":  "Dr. Boom",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "7",
+        "attack":  "7",
+        "health":  "7",
+        "text":  "\u003cb\u003eBattlecry\u003c/b\u003e: Summon two 1/1 Boom Bots."
+    },
+    {
+        "name":  "Edwin VanCleef",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "3",
+        "attack":  "2",
+        "health":  "2",
+        "text":  "\u003cb\u003eCombo:\u003c/b\u003e Gain +2/+2 for each card played earlier this turn."
+    },
+    {
+        "name":  "Elite Tauren Chieftain",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give both players the power to ROCK! (with a Power Chord card)"
+    },
+    {
+        "name":  "Feugen",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "7",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e If Stalagg also died this game, summon Thaddius."
+    },
+    {
+        "name":  "Flame Leviathan",
+        "rarity":  "Legendary",
+        "race":  "Mech",
+        "class":  "mage",
+        "cost":  "7",
+        "attack":  "7",
+        "health":  "7",
+        "text":  "When you draw this, deal 2 damage to all characters."
+    },
+    {
+        "name":  "Foe Reaper 4000",
+        "rarity":  "Legendary",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "8",
+        "attack":  "6",
+        "health":  "9",
+        "text":  "Also damages the minions next to whomever he attacks."
+    },
+    {
+        "name":  "Gahz\u0027rilla",
+        "rarity":  "Legendary",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "7",
+        "attack":  "6",
+        "health":  "9",
+        "text":  "Whenever this minion takes damage, double its Attack."
+    },
+    {
+        "name":  "Gazlowe",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "3",
+        "health":  "6",
+        "text":  "Whenever you cast a 1-mana spell, add a random Mech to your hand."
+    },
+    {
+        "name":  "Gelbin Mekkatorque",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "6",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Summon an AWESOME invention."
+    },
+    {
+        "name":  "Grommash Hellscream",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "warrior",
+        "cost":  "8",
+        "attack":  "4",
+        "health":  "9",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e\u003cbr /\u003e\u003cb\u003eEnrage:\u003c/b\u003e +6 Attack"
+    },
+    {
+        "name":  "Gruul",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "8",
+        "attack":  "7",
+        "health":  "7",
+        "text":  "At the end of each turn, gain +1/+1 ."
+    },
+    {
+        "name":  "Harrison Jones",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy your opponent\u0027s weapon and draw cards equal to its Durability."
+    },
+    {
+        "name":  "Hemet Nesingwary",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "6",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy a Beast."
+    },
+    {
+        "name":  "Hogger",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "At the end of your turn, summon a 2/2 Gnoll with \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Illidan Stormrage",
+        "rarity":  "Legendary",
+        "race":  "Demon",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "7",
+        "health":  "5",
+        "text":  "Whenever you play a card, summon a 2/1 Flame of Azzinoth."
+    },
+    {
+        "name":  "Iron Juggernaut",
+        "rarity":  "Legendary",
+        "race":  "Mech",
+        "class":  "warrior",
+        "cost":  "6",
+        "attack":  "6",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Shuffle a Mine into your opponent\u0027s deck. When drawn, it explodes for 10 damage."
+    },
+    {
+        "name":  "Kel\u0027Thuzad",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "8",
+        "attack":  "6",
+        "health":  "8",
+        "text":  "At the end of each turn, summon all friendly minions that died this turn."
+    },
+    {
+        "name":  "King Krush",
+        "rarity":  "Legendary",
+        "race":  "Beast",
+        "class":  "hunter",
+        "cost":  "9",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e"
+    },
+    {
+        "name":  "King Mukla",
+        "rarity":  "Legendary",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Give your opponent 2 Bananas."
+    },
+    {
+        "name":  "Leeroy Jenkins",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "6",
+        "health":  "2",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e. \u003cb\u003eBattlecry:\u003c/b\u003e Summon two 1/1 Whelps for your opponent."
+    },
+    {
+        "name":  "Loatheb",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Enemy spells cost (5) more next turn."
+    },
+    {
+        "name":  "Lord Jaraxxus",
+        "rarity":  "Legendary",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "9",
+        "attack":  "3",
+        "health":  "15",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy your hero and replace him with Lord Jaraxxus."
+    },
+    {
+        "name":  "Lorewalker Cho",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "0",
+        "health":  "4",
+        "text":  "Whenever a player casts a spell, put a copy into the other player?s hand."
+    },
+    {
+        "name":  "Maexxna",
+        "rarity":  "Legendary",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "2",
+        "health":  "8",
+        "text":  "Destroy any minion damaged by this minion."
+    },
+    {
+        "name":  "Mal\u0027Ganis",
+        "rarity":  "Legendary",
+        "race":  "Demon",
+        "class":  "warlock",
+        "cost":  "9",
+        "attack":  "9",
+        "health":  "7",
+        "text":  "Your other Demons have +2/+2.\n\u003cp\u003eYour hero is \u003cb\u003eImmune\u003c/b\u003e. \u003c/p\u003e"
+    },
+    {
+        "name":  "Malorne",
+        "rarity":  "Legendary",
+        "race":  "Beast",
+        "class":  "druid",
+        "cost":  "7",
+        "attack":  "9",
+        "health":  "7",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Shuffle this minion into your deck."
+    },
+    {
+        "name":  "Malygos",
+        "rarity":  "Legendary",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "9",
+        "attack":  "4",
+        "health":  "12",
+        "text":  "\u003cb\u003eSpell Damage +5\u003c/b\u003e"
+    },
+    {
+        "name":  "Mekgineer Thermaplugg",
+        "rarity":  "Legendary",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "9",
+        "attack":  "9",
+        "health":  "7",
+        "text":  "Whenever an enemy minion dies, summon a Leper Gnome."
+    },
+    {
+        "name":  "Millhouse Manastorm",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "4",
+        "health":  "4",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Enemy spells cost (0) next turn."
+    },
+    {
+        "name":  "Mimiron\u0027s Head",
+        "rarity":  "Legendary",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N."
+    },
+    {
+        "name":  "Mogor the Ogre",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "7",
+        "health":  "6",
+        "text":  "All minions have a 50% chance to attack the wrong enemy."
+    },
+    {
+        "name":  "Nat Pagle",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "2",
+        "attack":  "0",
+        "health":  "4",
+        "text":  "At the start of your turn, you have a 50% chance to draw an extra card."
+    },
+    {
+        "name":  "Neptulon",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "shaman",
+        "cost":  "7",
+        "attack":  "7",
+        "health":  "7",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Add 4 random Murlocs to your hand. \u003cb\u003eOverload: (3)\u003c/b\u003e"
+    },
+    {
+        "name":  "Nozdormu",
+        "rarity":  "Legendary",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "9",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "Players only have 15 seconds to take their turns."
+    },
+    {
+        "name":  "Old Murk-Eye",
+        "rarity":  "Legendary",
+        "race":  "Murloc",
+        "class":  "any",
+        "cost":  "4",
+        "attack":  "2",
+        "health":  "4",
+        "text":  "\u003cb\u003eCharge\u003c/b\u003e. Has +1 Attack for each other Murloc on the battlefield."
+    },
+    {
+        "name":  "Onyxia",
+        "rarity":  "Legendary",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "9",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Summon 1/1 Whelps until your side of the battlefield is full."
+    },
+    {
+        "name":  "Prophet Velen",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "7",
+        "attack":  "7",
+        "health":  "7",
+        "text":  "Double the damage and healing of your spells and Hero Power."
+    },
+    {
+        "name":  "Ragnaros the Firelord",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "8",
+        "attack":  "8",
+        "health":  "8",
+        "text":  "Can\u0027t Attack.  At the end of your turn, deal 8 damage to a random enemy."
+    },
+    {
+        "name":  "Sneed\u0027s Old Shredder",
+        "rarity":  "Legendary",
+        "race":  "Mech",
+        "class":  "any",
+        "cost":  "8",
+        "attack":  "5",
+        "health":  "7",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a random legendary minion."
+    },
+    {
+        "name":  "Stalagg",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "5",
+        "attack":  "7",
+        "health":  "4",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e If Feugen also died this game, summon Thaddius."
+    },
+    {
+        "name":  "Sylvanas Windrunner",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "5",
+        "health":  "5",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Take control of a random enemy minion."
+    },
+    {
+        "name":  "The Beast",
+        "rarity":  "Legendary",
+        "race":  "Beast",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "9",
+        "health":  "7",
+        "text":  "\u003cb\u003eDeathrattle:\u003c/b\u003e Summon a 3/3 Finkle Einhorn for your opponent."
+    },
+    {
+        "name":  "The Black Knight",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "4",
+        "health":  "5",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Destroy an enemy minion with \u003cb\u003eTaunt\u003c/b\u003e."
+    },
+    {
+        "name":  "Tinkmaster Overspark",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "3",
+        "attack":  "3",
+        "health":  "3",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel."
+    },
+    {
+        "name":  "Tirion Fordring",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "paladin",
+        "cost":  "8",
+        "attack":  "6",
+        "health":  "6",
+        "text":  "\u003cb\u003eDivine Shield\u003c/b\u003e. \u003cb\u003eTaunt\u003c/b\u003e. \u003cb\u003eDeathrattle:\u003c/b\u003e Equip a 5/3 Ashbringer."
+    },
+    {
+        "name":  "Toshley",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "6",
+        "attack":  "5",
+        "health":  "7",
+        "text":  "\u003cb\u003eBattlecry and Deathrattle:\u003c/b\u003e Add a \u003cb\u003eSpare Part\u003c/b\u003e card to your hand."
+    },
+    {
+        "name":  "Trade Prince Gallywix",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "rogue",
+        "cost":  "6",
+        "attack":  "5",
+        "health":  "8",
+        "text":  "Whenever your opponent casts a spell, gain a copy of it and give them a Coin."
+    },
+    {
+        "name":  "Troggzor the Earthinator",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "any",
+        "cost":  "7",
+        "attack":  "6",
+        "health":  "6",
+        "text":  "Whenever your opponent casts a spell, summon a Burly Rockjaw Trogg."
+    },
+    {
+        "name":  "Vol\u0027jin",
+        "rarity":  "Legendary",
+        "race":  "General",
+        "class":  "priest",
+        "cost":  "5",
+        "attack":  "6",
+        "health":  "2",
+        "text":  "\u003cb\u003eBattlecry:\u003c/b\u003e Swap Health with another minion."
+    },
+    {
+        "name":  "Ysera",
+        "rarity":  "Legendary",
+        "race":  "Dragon",
+        "class":  "any",
+        "cost":  "9",
+        "attack":  "4",
+        "health":  "12",
+        "text":  "At the end of your turn, draw a Dream Card."
+    }
+]
