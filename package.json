@@ -6,6 +6,10 @@
   "author": {
     "name": "Ricardo"
   },
+  "private": {
+    "type": "git",
+    "url": "git://github.com/ricardoprates/bsf.git"
+  },
   "dependencies": {
     "body-parser": "^1.10.1",
     "bower": "^1.3.12",

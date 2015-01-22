@@ -14,8 +14,7 @@ module.exports = function (app, passport, logger, config)
 {
     var root = path.normalize(__dirname + '/../..');
 
-    app.use(express.static(root + '/static'));
-    app.use('/views', express.static(root + '/views'));
+    app.use(express.static(root + '/public'));
 
     // put morgan before static if you want to see everything logged, including GETs for images, html, etc.
     app.use(morgan('tiny', {
@@ -28,7 +27,6 @@ module.exports = function (app, passport, logger, config)
     }));
 
     app.use(cookieParser());
-
     app.use(bodyParser.json());
     app.use(bodyParser.urlencoded({extended: false}));
 

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="/lib/angular/angular.min.js"></script>
+</head>
+<body>
+
+<div ng-app="cardSearch" ng-controller="cardsController">
+    <label for="search-box">Search:</label>
+    <input id="search-box" type="search" ng-model="searchText"/>
+    <table>
+        <tr ng-repeat="x in minions | filter:matchAllWords(searchText) | orderBy: 'name'">
+            <td>{{ x.name }}</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr ng-repeat="x in spells | filter:matchAllWords(searchText) | orderBy: 'name'">
+            <td>{{ x.name }}</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr ng-repeat="x in weapons | filter:matchAllWords(searchText) | orderBy: 'name'">
+            <td>{{ x.name }}</td>
+        </tr>
+    </table>
+</div>
+
+<script>
+    angular.module('cardSearch', []).controller('cardsController', function($scope, $http) {
+        $http.get("/hearthstone/data/minions.json").success(function (response)
+        {
+            $scope.minions = response;
+        });
+
+        $http.get("/hearthstone/data/spells.json").success(function (response)
+        {
+            $scope.spells = response;
+        });
+
+        $http.get("/hearthstone/data/weapons.json").success(function (response)
+        {
+            $scope.weapons = response;
+        });
+
+        $scope.matchAllWords = function (searchText)
+        {
+            return function (item)
+            {
+                if (!searchText)
+                {
+                    return true;
+                }
+
+                var itemValues = [];
+                for (var prop in item)
+                {
+                    if (item.hasOwnProperty(prop) && prop !== '$$hashKey')
+                    {
+                        itemValues.push(item[prop]);
+                    }
+                }
+
+                var searchTokens = searchText.split(' ');
+
+                for (i = 0; i < searchTokens.length; i++)
+                {
+                    var foundMatch = false;
+                    var token = searchTokens[i].toString().toLowerCase();
+
+                    for (j = 0; j < itemValues.length; j++)
+                    {
+                        var value = itemValues[j].toString().toLowerCase();
+
+                        if (value == token || value.indexOf(token) > -1)
+                        {
+                            foundMatch = true;
+                            break;
+                        }
+                    }
+                    if (!foundMatch)
+                    {
+                        return false;
+                    }
+                }
+
+                return true;
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
