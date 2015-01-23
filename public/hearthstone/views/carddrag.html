@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>card drag prototype</title>
+    <style>
+        body {
+            background-color: rgb(51, 51, 51);
+        }
+
+        .no-display {
+            display: none;
+        }
+
+        div.container {
+            overflow: hidden;
+        }
+
+        div.card {
+            width: 150px;
+            height: 240px;
+            background-color: rgb(150, 150, 150);
+            border-radius: 10px;
+            padding: 15px;
+            margin: 5px;
+            float: left;
+        }
+
+        div.cardlet {
+            padding: 5px;
+            margin: 2px;
+            background-color: lightblue;
+            border: 1px solid black;
+            border-radius: 4px;
+        }
+
+        div.deck {
+            background-color: rgb(100, 100, 100);
+            border: 2px solid black;
+            border-radius: 5px;
+            width: 200px;
+            min-height: 400px;
+            float: right;
+            padding: 10px;
+        }
+
+        div.deck.highlight-active {
+            border-color: orange;
+        }
+
+        div.deck.highlight-hover {
+            border-color: lightgreen;
+        }
+    </style>
+    <script src="/lib/jquery/jquery-2.1.3.min.js"></script>
+    <script src="/lib/jquery-ui/jquery-ui.min.js"></script>
+    <link href="/lib/jquery-ui/jquery-ui.css" rel="stylesheet">
+</head>
+<body>
+<div id="container" class="container">
+    <div title="Abomination" class="card">
+        5
+        <br/><br/><br/><br/><br/>
+        ___ Abomination ___
+        <br/><br/><br/><br/><br/><br/><br/>
+        4 _______________ 4
+    </div>
+
+    <div title="Abusive Sergeant" class="card">
+        1
+        <br/><br/><br/><br/><br/>
+        _ Abusive Sergeant _
+        <br/><br/><br/><br/><br/><br/><br/>
+        2 _______________ 1
+    </div>
+
+    <div id="thedeck" class="deck">
+        <p>Drag a card over here...</p>
+        <p>...or double click it!</p>
+
+        <div class="no-display cardlet">Abomination</div>
+    </div>
+</div>
+<script>
+    $(function ()
+    {
+        $(".card")
+            .draggable({
+                cursorAt: {
+                    left: 75,
+                    top: 140
+                },
+                helper: 'clone',
+                opacity: '0.7',
+                containment: '#container'
+            })
+            .dblclick(function ()
+            {
+                addCardlet(this);
+            });
+
+        $("#thedeck")
+            .droppable({
+                accept: ".card",
+                activeClass: "highlight-active",
+                hoverClass: "highlight-hover",
+                drop: function (event, ui)
+                {
+                    addCardlet(ui.draggable[0]);
+                }
+            });
+
+        function addCardlet($card)
+        {
+            $("#thedeck")
+                .find("p")
+                    .remove()
+                    .end()
+                .find(".no-display.cardlet")
+                    .clone()
+                    .html($card.title)
+                    .removeClass('no-display')
+                    .appendTo("#thedeck");
+        }
+
+    });
+</script>
+
+</body>
+</html>
