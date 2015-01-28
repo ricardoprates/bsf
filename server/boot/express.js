@@ -14,6 +14,8 @@ module.exports = function (app, passport, logger, config)
 {
     var root = path.normalize(__dirname + '/../..');
 
+    app.set('view engine', 'ejs');
+    app.set('views', root + '/server/views');
     app.use(express.static(root + '/public'));
 
     // put morgan before static if you want to see everything logged, including GETs for images, html, etc.
