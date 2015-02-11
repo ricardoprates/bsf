@@ -679,7 +679,7 @@
         "text":  "Destroy a minion with an Attack of 5 or more."
     },
     {
-        "name":  "Silence (card)",
+        "name":  "Silence",
         "rarity":  "Common",
         "class":  "priest",
         "cost":  "0",
@@ -910,7 +910,7 @@
         "text":  "Give a friendly character +3 Attack this turn."
     },
     {
-        "name":  "Windfury (card)",
+        "name":  "Windfury",
         "rarity":  "Free",
         "class":  "shaman",
         "cost":  "2",
@@ -1127,7 +1127,7 @@
         "text":  "Destroy all minions."
     },
     {
-        "name":  "Charge (card)",
+        "name":  "Charge",
         "rarity":  "Free",
         "class":  "warrior",
         "cost":  "3",
