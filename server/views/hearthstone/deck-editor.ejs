@@ -39,7 +39,7 @@
             <div class="row">
                 <div id="deck"></div>
                 <div id="collection">
-                    <div ng-repeat="x in cards | filter:matchAllWords(searchText) | orderBy: ['cost','name']">
+                    <div ng-repeat="x in cards | filter:matchAllWords(searchText) | orderBy: ['cost','name'] | slice:pageStart:pageEnd">
                         <div id="{{ misc.canonicalForm(x.name) }}" class="card">
                             <img src="/hearthstone/images/collectible/{{ misc.canonicalForm(x.name) }}.png"
                         </div>
