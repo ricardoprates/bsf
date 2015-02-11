@@ -30,7 +30,8 @@
 </div>
 
 <script>
-    angular.module('cardSearch', []).controller('cardsController', function($scope, $http) {
+    angular.module('cardSearch', []).controller('cardsController', function ($scope, $http)
+    {
         $http.get("/hearthstone/data/minions.json").success(function (response)
         {
             $scope.minions = response;
@@ -48,39 +49,81 @@
 
         $scope.matchAllWords = function (searchText)
         {
+            var _nicknames = {
+                'kt': 'kelthuzad',
+                'bgh': 'biggamehunter',
+                'swagaros': 'ragnarosthefirelord'
+            }
+
+            var misc = {
+                canonicalForm: function (name)
+                {
+                    return name.replace(/\W|_/g, '').toLowerCase();
+                },
+
+                isNickname: function (nick, name)
+                {
+                    return (_nicknames[nick] == name);
+                }
+            }
+
             return function (item)
             {
-                if (!searchText)
+                if (!searchText && !(searchText === 0))
                 {
                     return true;
                 }
 
-                var itemValues = [];
-                for (var prop in item)
+                var splitTokens = searchText.toString().split(' ');
+
+                var minionSpec = /^(\d+)\/(\d+)$/;                              //e.g.: 3/4
+                var propertySpec = /^([a-z]+)=([a-z0-9]+(?:\|[a-z0-9]+)*)$/i;   //e.g.: cost=1|2
+
+                var searchTokens = [];
+                for (i = 0; i < splitTokens.length; i++)
                 {
-                    if (item.hasOwnProperty(prop) && prop !== '$$hashKey')
+                    var matches;
+                    var rawToken = splitTokens[i];
+
+                    if (matches = rawToken.match(minionSpec))
                     {
-                        itemValues.push(item[prop]);
+                        var attack = matches[1];
+                        var health = matches[2];
+                        searchTokens.push({key: 'attack', value: attack});
+                        searchTokens.push({key: 'health', value: health});
+                    }
+                    else if (matches = rawToken.match(propertySpec))
+                    {
+                        var propertyName = matches[1];
+                        var propertyValues = matches[2];
+                        searchTokens.push({key: propertyName, value: propertyValues});
+                    }
+                    else
+                    {
+                        searchTokens.push({key: 'any', value: misc.canonicalForm(rawToken)});
                     }
                 }
-
-                var searchTokens = searchText.split(' ');
 
                 for (i = 0; i < searchTokens.length; i++)
                 {
                     var foundMatch = false;
-                    var token = searchTokens[i].toString().toLowerCase();
+                    var token = searchTokens[i];
 
-                    for (j = 0; j < itemValues.length; j++)
+                    for (var property in item)
                     {
-                        var value = itemValues[j].toString().toLowerCase();
-
-                        if (value == token || value.indexOf(token) > -1)
+                        if (property !== '$$hashKey' && (token.key == 'any' || token.key == property))
                         {
-                            foundMatch = true;
-                            break;
+                            var value = item[property];
+                            value = misc.canonicalForm(value);
+
+                            if (token.value && (value == token.value || value.search(token.value) != -1 || misc.isNickname(token.value, value)))
+                            {
+                                foundMatch = true;
+                                break;
+                            }
                         }
                     }
+
                     if (!foundMatch)
                     {
                         return false;

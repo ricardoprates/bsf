@@ -1,0 +1,71 @@
+/*
+ *
+ */
+
+body {
+    display: block;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+
+.page {
+    width: 95%;
+    min-width: 600px;
+    margin: 0 auto 0 auto;
+}
+
+.top-menu {
+    content: "";
+    min-width: 600px;
+    height: 3.5vw;
+    min-height: 36px;
+}
+
+.hearthstone .deck-editor {
+}
+
+.hearthstone .deck-editor #menu {
+    content: "";
+    background-color: #7777EE;
+    height: 3.5vw;
+    min-height: 36px;
+    border-radius: 5px 5px 0 0;
+}
+
+.hearthstone .deck-editor #search {
+    content: "";
+    background-color: #DDDDDD;
+    height: 3.5vw;
+    min-height: 36px;
+}
+
+.hearthstone .deck-editor #collection {
+    content: "";
+    background-color: #ffc73d;
+    min-width: 350px;
+    min-height: 560px;
+    overflow: hidden;
+}
+
+.hearthstone .deck-editor #collection .card {
+    content: "";
+    border: dashed black;
+    margin: 1px;
+    width: 200px;
+    height: 270px;
+    float: left;
+}
+
+.hearthstone .deck-editor #collection .card img {
+    width: inherit;
+    height: inherit;
+}
+
+.hearthstone .deck-editor #deck {
+    content: "";
+    background-color: #555555;
+    width: 150px;
+    height: 560px;
+    float: right;
+}
